@@ -29,5 +29,11 @@ visto varios cambios bruscos y el pico más bajo.
 Midlands”. También que los 5 estados con más me gusta en Gran Bretaña son: “South Yorkshire”, “West Midlands”, “Leicester”, “Devon” y Perthshire And Kinross”. Y que los 5 estados con más no me gusta en Gran 
 Bretaña son: “Bath and North East Somerset ”, “Southampton”, “South Yorkshire”, “Inverclyde” y “Glasgow”.
 
+● Del modelo de progresión lineal donde utilizamos los las variable ‘likes’, ‘dislikes’, ‘views’ sacamos el siguiente análisis
+Interpretación de los coeficientes:
+Manteniendo todas las demás características fijas, el aumento de 1 Like está asociado con el aumento de 42.251311 vistas.
+Manteniendo todas las demás características fijas, el aumento de 1 Dislike está asociado con el aumento de 38.824725 vistas
+
+
 # Licencia
 GNU General Public License v3.0: La GPL v3.0 es una licencia de copyleft que garantiza que cualquier modificación o distribución del software derivado también sea de código abierto y sujeto a la misma licencia. Usamos esta licencia para garantizar que si hay mejoras de nuestro trabajo estas se mantengan como código abierto.
